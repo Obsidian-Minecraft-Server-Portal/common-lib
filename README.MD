@@ -1,6 +1,6 @@
 # Obsidian Server Portal Library
 
-This Rust library serves as a utility for the [Obsidian Server Portal](https://github.com/your-repo-link), a Minecraft server panel. The library provides support for path transformations and related functionalities.
+This Rust library serves as a utility for the [Obsidian Server Portal](https://github.com/Obsidian-Minecraft-Server-Portal/common-lib.git), a Minecraft server panel. The library provides support for path transformations and related functionalities.
 
 ## Features
 
@@ -15,10 +15,8 @@ To add this library as a dependency, include the following in your `Cargo.toml`:
 
 ```toml
 [dependencies]
-obsidian_server_portal_lib = { git = "https://github.com/your-repo-link" }
+obsidian_server_portal_lib = { git = "https://github.com/Obsidian-Minecraft-Server-Portal/common-lib.git" }
 ```
-
-Make sure to replace `https://github.com/your-repo-link` with the actual URL to your Git repository.
 
 ### Usage Example
 
