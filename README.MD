@@ -69,7 +69,7 @@ Contributions are welcome! If you'd like to add features or report bugs, feel fr
 
 ## License
 
-This library is open-source and available under the [MIT License](LICENSE).
+This library is open-source and available under the [LGPL-3.0](LICENSE).
 
 ---
 
