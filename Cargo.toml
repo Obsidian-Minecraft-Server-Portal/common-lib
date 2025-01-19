@@ -1,0 +1,8 @@
+[package]
+name = "obsidian-common"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/Obsidian-Minecraft-Server-Portal/common-lib.git"
+description = "A shared library between obsidian components"
+
+[dependencies]
